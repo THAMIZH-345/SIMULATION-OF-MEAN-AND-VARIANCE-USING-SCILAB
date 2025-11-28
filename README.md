@@ -48,21 +48,14 @@ var = EX2 - (EX^2);
 disp("Variance : " + string(var));
 ```
 
-
 ## CALCULATION
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/63729a73-14f9-4476-97b2-de129f6baed6" />
 
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/9fdbe251-d1c8-4ecb-a577-34d185f8f2ef" />
 
-
-
-
-
 ## OUTPUT
 
 <img width="876" height="100" alt="image" src="https://github.com/user-attachments/assets/3973ccee-8db1-4f74-968b-68a76b27fa0b" />
-
-
 
 ## RESULT:
 Thus the mean , variance and cross correlation are executed in Scilab and output is verified.
